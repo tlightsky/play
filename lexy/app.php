@@ -16,7 +16,7 @@ html,body{width:100%;height:100%;font-family:"黑体"; }
 #container {background: url(background.png) no-repeat; background-size: 100%; position: relative; width:100%; height: 100%;}
 #container a { display: block;}
 #container img { display: block;}
-#app { padding-top:5%; width: 35.2% }
+#app { padding-top:15%; width: 35.2% }
 #text1 { margin-top: 3%; width: 73% }
 #android { margin-top: 6.7%; }
 #android img {width: 50.3%; }
